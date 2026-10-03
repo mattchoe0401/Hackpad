@@ -3,8 +3,8 @@ This Hackpad uses 7 keys and a rotary encoder, each programmed for different fun
 
 The keybinds are as follows:
 
-COPY&nbsp;&nbsp;PASTE&nbsp;&nbsp;UP&emsp;&emsp;&nbsp;MUTE\
-CUT&emsp;LEFT&emsp;&nbsp;DOWN&nbsp;&nbsp;RIGHT
+COPY&nbsp;&nbsp;&emsp;PASTE&emsp;&nbsp;&nbsp;UP&emsp;&emsp;&emsp;&nbsp;MUTE\
+CUT&emsp;&emsp;LEFT&emsp;&emsp;&nbsp;DOWN&emsp;&nbsp;&nbsp;RIGHT
 
 Pressing down the rotary encoder mutes/unmutes, while rotating it adjusts the volume.
 
