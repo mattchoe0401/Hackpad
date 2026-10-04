@@ -1,6 +1,8 @@
 # Hackpad
 This Hackpad uses 7 keys and a rotary encoder, each programmed for different functions.
 
+It has an OLED screen that uses global WPM (tracked by a background Python program) to determine when a Bongo Cat hits.
+
 The keybinds are as follows:
 
 COPY&nbsp;&nbsp;&emsp;PASTE&emsp;&nbsp;&nbsp;UP&emsp;&emsp;&emsp;&nbsp;MUTE\
