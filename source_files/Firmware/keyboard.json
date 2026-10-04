@@ -4,12 +4,15 @@
     "maintainer": "mattchoe0401",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
+    "lto": true,
     "features": {
         "bootmagic": true,
         "extrakey": true,
         "mousekey": true,
         "nkro": true,
-        "encoder": true
+        "encoder": true,
+        "raw_hid": true,
+        "oled": true
     },
     "matrix_pins": {
         "cols": ["GP29", "GP6", "GP7", "GP0"],
@@ -26,7 +29,6 @@
         "rotary":[
             {"pin_a": "GP4", "pin_b": "GP3", "resolution": 4}
         ]
-
     },
     "layouts": {
         "LAYOUT": {
