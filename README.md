@@ -25,6 +25,6 @@ PCB:\
 - 7x Cherry MX key switches
 - 5x M3x16mm screws
 - 5x M3x5mx4mm heatset inserts
-- 1x EC11E Rotary encoder
+- 1x EC11E rotary encoder
 - 1x 0.91-inch OLED display
-- 7x white DSA keycaps
+- 7x White DSA keycaps
