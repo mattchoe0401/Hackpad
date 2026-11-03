@@ -28,4 +28,4 @@ PCB:\
 - 1x EC11E rotary encoder
 - 1x 0.91-inch OLED display
 - 7x White DSA keycaps
-See hackpad_bom.csv for the list of prices and links
+\See hackpad_bom.csv for the list of prices and links
