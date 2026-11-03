@@ -21,6 +21,7 @@ PCB:\
 <img width="823" height="617" alt="image" src="https://github.com/user-attachments/assets/19ad10df-f037-4328-a3eb-4484f645048a" />
 
 # Bill of Materials
+**See hackpad_bom.csv for the list of prices and links**
 - 1x Seeed XIAO RP2040
 - 7x Cherry MX key switches
 - 5x M3x16mm screws
@@ -28,4 +29,3 @@ PCB:\
 - 1x EC11E rotary encoder
 - 1x 0.91-inch OLED display
 - 7x White DSA keycaps
-\See hackpad_bom.csv for the list of prices and links
